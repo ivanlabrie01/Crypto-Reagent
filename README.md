@@ -92,3 +92,6 @@ Built by [Ivan Labrie's Laboratory](https://discord.gg/xRp9yjCqSQ) — a crypto 
 - $750 / year
 
 [![Discord](https://img.shields.io/badge/Join%20the%20Lab-Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/xRp9yjCqSQ)
+[![X](https://img.shields.io/badge/@ivan__labrie-X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/ivan_labrie)
+[![TradingView](https://img.shields.io/badge/IvanLabrie-TradingView-131722?style=for-the-badge&logo=tradingview&logoColor=white)](https://www.tradingview.com/u/IvanLabrie/)
+[![Telegram](https://img.shields.io/badge/@ivanlabrie-Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/ivanlabrie)
