@@ -30,8 +30,8 @@ All free tier, no paid APIs required:
 ## Install
 
 ```bash
-git clone https://github.com/ivanlabrie/reagent.git
-cd reagent
+git clone https://github.com/ivanlabrie01/Crypto-Reagent.git
+cd Crypto-Reagent
 python3 -m venv .venv
 .venv/bin/pip install -e .
 ```
@@ -73,6 +73,27 @@ cp .env.example .env
 - Python 3.11+
 - Free API keys for Solana-specific data (Helius, Birdeye)
 - Anthropic API key for AI synthesis (optional)
+
+---
+
+### Track Record — Selected Public Calls
+
+12,000+ followers and 2,200+ ideas on TradingView since 2014. Some highlights:
+
+**Bear market calls:**
+- [BTCUSD: Buckle up, bear market started](https://www.tradingview.com/chart/BTCUSD/rOMvtIZX-BTCUSD-Buckle-up-bear-market-started/) — May 2021, called end of the 2-year bull run
+- [BTCUSD: Bear market thesis](https://www.tradingview.com/chart/BTCUSD/V3Dyy2b2-BTCUSD-bear-market-thesis/) — Jun 2021, projected bottom around Mar-Apr 2022
+- [BTCUSD: Possible scenarios for the bear market](https://www.tradingview.com/chart/BTCUSD/9mE8GR4t-BTCUSD-Possible-scenarios-for-the-bear-market/) — Feb 2018, called bear market on 2-month timeframe
+
+**Bottom calls:**
+- [BTCUSD: We may have seen the bottom already](https://www.tradingview.com/chart/BTCUSD/hSk2su4j-BTCUSD-We-may-have-seen-the-bottom-already/) — Mar 2020, called the COVID crash bottom
+- [BTCUSD: Potential bottom after a bearish sentiment extreme](https://www.tradingview.com/chart/BTCUSD/vLrQH22j-BTCUSD-Potential-bottom-after-a-bearish-sentiment-extreme/) — Mar 2017, re-entered long near the bottom
+
+**Cross-asset:**
+- [ETHXBT: Just a prediction](https://www.tradingview.com/chart/ETHXBT/xI3FxDy3-ETHXBT-Just-a-prediction/) — Mar 2017, predicted ETH breakout targets
+- [Pair trade: Long the market, short gold](https://www.tradingview.com/chart/SPX500/BhQWiavc-Pair-trade-Long-the-market-short-gold/)
+
+Browse the full archive: [TradingView/IvanLabrie](https://www.tradingview.com/u/IvanLabrie/) | [Substack (archive)](https://ivanlabrie.substack.com/archive)
 
 ---
 
