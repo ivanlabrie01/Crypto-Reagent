@@ -1,0 +1,21 @@
+[project]
+name = "cryptoresearch"
+version = "0.1.0"
+description = "Lightweight crypto research CLI — pulls free API data into structured terminal reports"
+requires-python = ">=3.11"
+dependencies = [
+    "httpx>=0.27",
+    "rich>=13.7",
+    "anthropic>=0.40",
+    "python-dotenv>=1.0",
+]
+
+[project.scripts]
+research = "src.cli:run"
+
+[tool.setuptools.packages.find]
+where = ["."]
+
+[build-system]
+requires = ["setuptools>=68"]
+build-backend = "setuptools.build_meta"
