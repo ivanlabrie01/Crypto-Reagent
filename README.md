@@ -81,7 +81,7 @@ cp .env.example .env
 12,000+ followers and 2,200+ ideas on TradingView since 2014. Some highlights:
 
 **Bear market calls:**
-- [BTCUSD: Buckle up, bear market started](https://www.tradingview.com/chart/BTCUSD/rOMvtIZX-BTCUSD-Buckle-up-bear-market-started/) — May 2021, called end of the 2-year bull run
+- [BTCUSD: Buckle up, bear market started](https://www.tradingview.com/chart/BTCUSD/rOMvtIZX-BTCUSD-Buckle-up-bear-market-started/) — Dec 2017, called end of the 2-year bull run
 - [BTCUSD: Bear market thesis](https://www.tradingview.com/chart/BTCUSD/V3Dyy2b2-BTCUSD-bear-market-thesis/) — Jun 2021, projected bottom around Mar-Apr 2022
 - [BTCUSD: Possible scenarios for the bear market](https://www.tradingview.com/chart/BTCUSD/9mE8GR4t-BTCUSD-Possible-scenarios-for-the-bear-market/) — Feb 2018, called bear market on 2-month timeframe
 
