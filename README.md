@@ -76,43 +76,11 @@ cp .env.example .env
 
 ---
 
-### Track Record — Selected Public Calls
+## About
 
-12,000+ followers and 2,200+ ideas on TradingView since 2014. Some highlights:
+Built by Ivan Labrie, trend-following trader (Time at Mode, Tim West's framework), trading full-time since 2015 with a public, timestamped track record.
 
-**Bear market calls:**
-- [BTCUSD: Buckle up, bear market started](https://www.tradingview.com/chart/BTCUSD/rOMvtIZX-BTCUSD-Buckle-up-bear-market-started/) — Dec 2017, called end of the 2-year bull run
-- [BTCUSD: Bear market thesis](https://www.tradingview.com/chart/BTCUSD/V3Dyy2b2-BTCUSD-bear-market-thesis/) — Jun 2021, projected bottom around Mar-Apr 2022
-- [BTCUSD: Possible scenarios for the bear market](https://www.tradingview.com/chart/BTCUSD/9mE8GR4t-BTCUSD-Possible-scenarios-for-the-bear-market/) — Feb 2018, called bear market on 2-month timeframe
-
-**Bottom calls:**
-- [BTCUSD: We may have seen the bottom already](https://www.tradingview.com/chart/BTCUSD/hSk2su4j-BTCUSD-We-may-have-seen-the-bottom-already/) — Mar 2020, called the COVID crash bottom
-- [BTCUSD: Potential bottom after a bearish sentiment extreme](https://www.tradingview.com/chart/BTCUSD/vLrQH22j-BTCUSD-Potential-bottom-after-a-bearish-sentiment-extreme/) — Mar 2017, re-entered long near the bottom
-
-**Cross-asset:**
-- [ETHXBT: Just a prediction](https://www.tradingview.com/chart/ETHXBT/xI3FxDy3-ETHXBT-Just-a-prediction/) — Mar 2017, predicted ETH breakout targets
-- [Pair trade: Long the market, short gold](https://www.tradingview.com/chart/SPX500/BhQWiavc-Pair-trade-Long-the-market-short-gold/)
-
-Browse the full archive: [TradingView/IvanLabrie](https://www.tradingview.com/u/IvanLabrie/) | [Substack (archive)](https://ivanlabrie.substack.com/archive)
-
----
-
-### Ivan Labrie's Laboratory
-
-Built by [Ivan Labrie's Laboratory](https://discord.gg/xRp9yjCqSQ) — a crypto signals and research community covering options, perpetual futures, spot, and DeFi strategies.
-
-**What you get:**
-- Live trade signals and portfolio updates
-- Market regime analysis and macro reads
-- Tools and bots built in-house (like this one)
-- Direct access to research and discussion
-
-**Subscription tiers:**
-- 1 week free trial — no commitment
-- $200 / quarter
-- $750 / year
-
-[![Discord](https://img.shields.io/badge/Join%20the%20Lab-Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/xRp9yjCqSQ)
-[![X](https://img.shields.io/badge/@ivan__labrie-X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/ivan_labrie)
-[![TradingView](https://img.shields.io/badge/IvanLabrie-TradingView-131722?style=for-the-badge&logo=tradingview&logoColor=white)](https://www.tradingview.com/u/IvanLabrie/)
-[![Telegram](https://img.shields.io/badge/@ivanlabrie-Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/ivanlabrie)
+- Site and services: https://ivanlabrie.netlify.app
+- Free analysis (Substack): https://ivanlabrie.substack.com
+- TradingView (ideas and free indicators): https://www.tradingview.com/u/IvanLabrie
+- Track record: https://x.com/ivan_labrie (the pinned post has the full archive)
