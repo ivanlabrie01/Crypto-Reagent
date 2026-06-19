@@ -78,7 +78,7 @@ cp .env.example .env
 
 ## About
 
-Built by Ivan Labrie, trend-following trader (Time at Mode, Tim West's framework), trading full-time since 2015 with a public, timestamped track record.
+Built by Ivan Labrie, a multi-asset trader and systems builder. Time at Mode, signals, and an options-income book across crypto, stocks, macro, FX and commodities. Calling cycle tops and bottoms in real time since 2015, public and timestamped.
 
 - Site and services: https://ivanlabrie.netlify.app
 - Free analysis (Substack): https://ivanlabrie.substack.com
